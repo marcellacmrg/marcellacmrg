@@ -4,7 +4,7 @@ Meu nome é Marcella
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
 ### Para você entrar em contato comigo 📪
 
