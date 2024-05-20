@@ -1,4 +1,4 @@
-### vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💙
 
 Meu nome é Marcella
 
@@ -6,7 +6,7 @@ Meu nome é Marcella
 - Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-### Você entrar em contato comigo 📪
+### Para você entrar em contato comigo 📪
 
 00001098257303sp@al.educacao.sp.gov.br
 
